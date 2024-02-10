@@ -1,3 +1,6 @@
+.home-style-main{
+    background: antiquewhite;
+}
 .home-style1 img{
     width: 100%;
     height: 600px;
@@ -39,7 +42,7 @@
     padding-top: 120px;
 }
 .home-style4 p{
-    color: grey;
+    color: yellow;
     font: 500 20px inter;
     text-align: center;
 }

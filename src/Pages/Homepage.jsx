@@ -6,6 +6,7 @@ import { FcBullish ,FcCircuit, FcCloseUpMode,FcSlrBackSide,FcManager} from "reac
 const Homepage=()=>{
     return(
         <>
+        <div className="home-style-main">
            <div>
               <div className="home-style1">
                   <img src="../Images/img1.jpg" alt="image"/>
@@ -81,7 +82,7 @@ const Homepage=()=>{
                 </div>
            </div>
            <div className="container-flud home-style4">
-               <div className="img-bg" style={{backgroundImage:`url(../Images/img1.jpg)`}}>
+               <div className="img-bg" style={{backgroundImage:`url(../Images/img14.jfif)`}}>
                    <div>
                        <h2>FRESH & NON-GMO PRODUCTS</h2>
                        <p>Some quick example text to build on the card title and make up the bulk of the card's content</p>
@@ -160,6 +161,7 @@ const Homepage=()=>{
                     </div>
                     
                 </div>
+           </div>
            </div>
         </>
         
